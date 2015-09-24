@@ -1,0 +1,317 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>The Ford App helps you go further</title>
+<style type="text/css">
+.ReadMsgBody {
+	width: 100%;
+}/* Forces Hotmail to display emails at full width */
+/*Hotmail table centering fix*/
+.ExternalClass {
+	width: 100%;
+}
+/* Forces Hotmail/Outlook to display normal line spacing*/
+.ExternalClass * {
+	line-height: 100%;
+}
+/*Yahoo paragraph fix*/
+p {
+	margin: 1em 0;
+}
+/*This resolves the Outlook 07, 10, and Gmail td padding issue fix*/
+table td {
+	border-collapse: collapse;
+}
+ /*viewport width scaling for all devices*/
+ @-ms-viewport {
+ width: device-width;
+}
+/*This resolves the issue when iphone puts links on dates, etc.*/
+.appleLinks {
+	color: inherit;
+	text-decoration: none;
+}
+.appleLinks a {
+	color: inherit;
+	text-decoration: none;
+}
+.display {
+	display: none;
+}
+div.preheader {
+	display: none !important;
+}
+
+/*Mobile - Media Queries Starts - 320X480 Screen*/
+@media screen and (max-width: 480px) {
+/*container resize*/
+*[class="container-full-width"] {
+	width: 100% !important;
+	height: auto;
+	margin: 0 auto;
+}
+*[class="container-fixed-width"] {
+	width: 320px !important;
+	height: auto;
+	margin: 0 auto;
+}
+*[class="container-recommendation"] {
+	width: 320px !important;
+	height: auto;
+	margin: 0 auto;
+}
+/*Do not show in mobiles*/
+*.nomobile {
+	display: none !important;
+}
+/*Shows in mobiles*/
+*.show {
+	display: block !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	overflow: visible !important;
+	width: auto !important;
+	max-height: inherit !important;
+}
+/*General Image fluid resize*/
+*[class="full-width"] {
+	width: 100% !important;
+	height: auto !important;
+	padding-left: 0px !important;
+}
+/*Content Drop*/
+td[class="Drop"] {
+	width: 100% !important;
+	height: auto !important;
+	float: left !important;
+}
+td[class="Drop1"] {
+	width: 100% !important;
+	height: auto !important;
+	float: left !important;
+	padding: 0px !important;
+}
+td[class="Drop_R"] {
+	width: 100% !important;
+	height: auto !important;
+	float: right !important;
+	text-align: right !important;
+	padding-right: 20px !important;
+}
+/*Button resize*/
+*[class="RespBtn"] {
+	width: 100% !important;
+}
+/*Width resize*/
+td[class=W_100] {
+	width: 100% !important;
+	padding: 0px 20px;
+}
+/*height resize*/
+body[yahoo] .auto-height {
+	height: auto !important;
+}
+td[class="Hi8_180"] {
+	height: 100px !important;
+}
+*[class="hi8_1"] {
+	height: 1px !important;
+}
+/*Content Float*/
+
+/*Image Resize*/
+
+/*Padding Resize*/
+
+td[class=Pad_LR20] {
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+}
+td[class=Pad_T30] {
+	padding-top: 30px !important;
+}
+*[class="display_block"] {
+	display: block !important;
+}
+*[class="text_center"] {
+	text-align: center !important;
+}
+td[class="text_center1"] {
+	text-align: center !important;
+	padding-right: 0px !important;
+}
+span[class=Btn_Call] {
+	background-color: #4c9fc7;
+	border-radius: 3px;
+	color: #ffffff !important;
+	padding: 8px 10px;
+}
+span[class=call_no] {
+	font: 24px Arial, Helvetica, sans-serif !important;
+	color: #ffffff !important;
+	line-height: 30px !important;
+}
+td[class=img_top] {
+	padding-top: 0px !important;
+	width: 100% !important;
+	height: auto !important;
+	float: left !important;
+}
+.flu_Img{
+	width:100% !important;
+	height:auto !important;}
+}
+ /*Mobile - Media Queries Ends*/
+</style>
+</head>
+<body bgcolor="#f2f2f2" style="margin: 0px; padding:0px; -webkit-text-size-adjust:none; -ms-text-size-adjust: none;" yahoo="fix">
+<div class="preheader" style="display: none !important; visibility: hidden; opacity: 0; color: transparent; height: 0px; width: 0px; max-height:1px; max-width:1px; overflow:hidden; mso-hide:all; font-size:1px;">Owning a Ford has never been easier, thanks to the new Owners app by Ford.</div>
+<!-- Table used to center email Starts-->
+<table class="container-full-width" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="top" bgcolor="#f2f2f2"><table width="640" class="container-full-width" border="0" cellspacing="0" cellpadding="0" bgcolor="#f2f2f2">
+        <tr>
+          <td width="640"><table align="center" class="container-full-width" width="640" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="640"><table align="center" class="container-full-width" width="640" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" valign="top" bgcolor="#FFFFFF"><img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/201508_Welcome1st_Spacer.gif" width="1" height="20" alt="" /></td>
+                    </tr>
+                    <tr>
+                            <td width="153" align="left" valign="top" style="font:bold 24px Arial, Helvetica, sans-serif; text-align:center; color:#FFFFFF;"><a href="http://www.india.ford.com/" name="Ford_Logo" title="Ford | Go Further" target="_blank" style="font:bold 18px Arial, Helvetica, sans-serif; color:#000001; text-decoration:none; text-align:center;"><img class="flu_Img" style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/201509_edm1a_welcome_logo12.jpg" width="640" height="80" alt="Ford | Go Further" /></a></td>
+                           
+                                
+                  </table></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#6B7D9C">
+                    <tr>
+                      <td align="center" valign="top" style="padding-top:40px;" bgcolor="#000001"><table align="center" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td align="center" valign="top" bgcolor="#109AD6"><img style="display:block; font:10px Arial, Helvetica, sans-serif; color:#ffffff;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/201508_AppFord_010.jpg" width="63" height="61" alt="Ford OWNERS" title="Ford OWNERS" /></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td align="center" valign="top" bgcolor="#000001" style="font:25px Arial, Helvetica, sans-serif; color:#ffffff; line-height:29px; mso-line-height-rule: exactly; padding:30px 10px 20px 10px;">Have you tried the Ford Owners App?</td>
+                    </tr>
+                    <tr>
+                      <td align="center" valign="top" bgcolor="#000001" class="Pad_LR20" style="font:14px Arial, Helvetica, sans-serif; color:#3898cc; line-height:18px; mso-line-height-rule: exactly; padding:20px 50px;">Owning a Ford has never been easier, thanks to the new Owners app by Ford. It's simple, easy and keeps you connected with Ford, anywhere and anytime. Here's a list of what you can do with it.<br />
+                        <br />
+                        <em>Use the helpful service checklist</em><br />
+                        <br />
+                        <em>Access 24-hour Roadside Assistance</em><br />
+                        <br />
+                        <em>Know your vehicle with "how-to" videos</em><br />
+                        <br />
+                        <em>Find your nearest service centre</em><br />
+                        <br />
+                        <em>And more....</em><br />
+                        <br />
+                        Download the app now, absolutely free, and have all of this important information and more with you always at your fingertips, anywhere you and your Ford go.<br />
+                        <br /></td>
+                    </tr>
+                    <tr>
+                      <td align="center" valign="top" bgcolor="#000001" style="padding-bottom:20px;"><table align="center" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="120" height="40" align="center" valign="middle" bgcolor="#109AD6"><a href="https://itunes.apple.com/in/app/ford-owners/id990342351?mt=8" name="iOS" target="_blank" title="iOS" style="font:15px Arial, Helvetica, sans-serif; color:#ffffff; text-decoration:none; display:block;">iOS</a></td>
+                            <td width="44" align="center" valign="top"><img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/201508_AppFord_Spacer.gif" width="1" height="1" alt="" /></td>
+                            <td width="120" height="40" align="center" valign="middle" bgcolor="#109AD6"><a href="https://play.google.com/store/apps/details?id=com.ford.fordowners&hl=en" name="ANDROID" target="_blank" title="ANDROID" style="font:15px Arial, Helvetica, sans-serif; color:#ffffff; text-decoration:none; display:block;">ANDROID</a></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top"><img style="display:block;" border="0" class="full-width" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/201508_AppFord_09.jpg" width="100%" alt="" /></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr>
+                <td align="center" valign="top" bgcolor="#F7F3F7"><table align="center" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="28" align="left" valign="top" class="nomobile"><img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/201508_AppFord_Spacer.gif" width="1" height="1" alt="" /></td>
+                      <td width="289" align="center" valign="top" class="Drop"><table align="center" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td width="124" align="left" valign="top"><a href="http://www.india.ford.com/locate-dealer" name="186_341" target="_blank" title="186/341" style="color:#91a4b1; text-decoration:underline;"><img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/201508_AppFord_01.jpg" width="124" height="80" alt="186/341" /></a></td>
+                            <td width="16" align="left" valign="top"><img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/201508_AppFord_Spacer.gif" width="1" height="1" alt="" /></td>
+                            <td width="149" align="left" valign="top"><a href="http://www.india.ford.com/ford-service/solutions/happy-pocket" name="Happy_Pocket" target="_blank" title="Happy Pocket" style="color:#91a4b1; text-decoration:underline;"><img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/201508_AppFord_02.jpg" width="149" height="80" alt="Happy Pocket" /></a></td>
+                          </tr>
+                        </table></td>
+                      <td width="16" align="left" valign="top" class="Drop"><img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/201508_AppFord_Spacer.gif" width="1" height="1" alt="" /></td>
+                      <td width="277" align="center" valign="top" class="img_top"><table border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td align="center" valign="top" style="padding-top:18px;" class="img_top"><table align="center" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td width="127" align="left" valign="top"><a href="tel:18004252500" name="18004252500" target="_blank" title="18004252500" style="color:#91a4b1; text-decoration:underline;"><img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/201509_Welcome1st_image1.gif" width="127" height="53" alt="1800-425-2500" /></a></td>
+                                  <td width="18" align="left" valign="top"><img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/201508_AppFord_Spacer.gif" width="1" height="1" alt="" /></td>
+                                  <td width="132" align="left" valign="top"><a href="tel:18002097400" name="18002097400" target="_blank" title="18002097400" style="color:#91a4b1; text-decoration:underline;"><img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/201508_AppFord_05.jpg" width="132" height="62" alt="18002097400" /></a></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                      <td width="30" align="left" valign="top" class="nomobile"><img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/201508_AppFord_Spacer.gif" width="1" height="1" alt="" /></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" bgcolor="#f2f2f2" style="padding:25px 15px;"><table border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#91a4b1; line-height:15px; mso-line-height-rule: exactly;"><table border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td align="left" valign="top"><table align="left" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td width="84" align="left" valign="middle" style="color:#91a4b1;font-family:Arial, Verdana, Sans-serif;font-size:12px;">Follow us on:</td>
+                                  <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td width="24" align="left" valign="middle" bgcolor="#319AD6" style="font-size:0%;"><a href="https://twitter.com/fordindia" name="Twitter_Btm" title="Twitter" target="_blank" style="font-size:10px; color:#ffffff; text-decoration:none; text-align:center;"> <img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/Twitter.jpg" width="29" height="29" alt="T" /> </a></td>
+                                      </tr>
+                                    </table></td>
+                                  <td width="10" align="left" valign="middle" style="font-size:0%;"><img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/201508_Welcome1st_Spacer.gif" width="1" height="1" alt="" /></td>
+                                  <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td width="24" align="left" valign="middle" bgcolor="#319AD6" style="font-size:0%;"><a href="https://www.facebook.com/FordIndia" name="Facebook_Btm" title="Facebook" target="_blank" style="font-size:10px; color:#ffffff; text-decoration:none; text-align:center;"> <img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/Facebook.jpg" width="29" height="29" alt="F" /> </a></td>
+                                      </tr>
+                                    </table></td>
+                                  <td width="10" align="left" valign="middle" style="font-size:0%;"><img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/201508_Welcome1st_Spacer.gif" width="1" height="1" alt="" /></td>
+                                  <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td width="24" align="left" valign="middle" bgcolor="#319AD6" style="font-size:0%;"><a href="https://instagram.com/fordindia" name="Instagram_Btm" title="Instagram" target="_blank" style="font-size:10px; color:#ffffff; text-decoration:none; text-align:center;"> <img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/Instagram.jpg" width="29" height="29" alt="I" /> </a></td>
+                                      </tr>
+                                    </table></td>
+                                  <td width="10" align="left" valign="middle" style="font-size:0%;"><img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/201508_Welcome1st_Spacer.gif" width="1" height="1" alt="" /></td>
+                                  <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td width="24" align="left" valign="middle" bgcolor="#319AD6" style="font-size:0%;"><a href="https://www.youtube.com/user/FordIndiaVideos" name="Youtube_Btm" title="Youtube" target="_blank" style="font-size:10px; color:#ffffff; text-decoration:none; text-align:center;"> <img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/Youtube.jpg" width="29" height="29" alt="Y" /> </a></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="middle" style="font-size:0%;"><img style="display:block;" border="0" src="https://s3-ap-southeast-1.amazonaws.com/edm2015india/Images/201508_Welcome1st_Spacer.gif" width="1" height="15" alt="" /></td>
+                          </tr>
+                        </table>
+                        <table border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td align="left" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#91a4b1; line-height:15px; mso-line-height-rule: exactly;">
+                              To ensure that you continue receiving our emails, please add <a href="mailto:fordindia@crm.fordind.com" title="fordindia@crm.fordind.com" target="_blank" name="Fordind_Email" style="font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#91a4b1; line-height:15px; mso-line-height-rule: exactly;">fordindia@crm.fordind.com</a> <br class="nomobile">
+                              to your address book or safe list. Ford India Pvt. Ltd. 3rd Floor, Building No.10, Tower C. DLF Phase II, Gurgaon-122002 <br/>
+                              <br/>
+                              Copyright 2015 Ford India Pvt Ltd. All Rights Reserved. <a href="http://www.india.ford.com/privacy-disclaimer" name="Privacy_Disclaimer" target="_blank" title="Privacy & Disclaimer" style="color:#91a4b1;"><span style="color:#91a4b1; text-decoration:underline">Privacy & Disclaimer</span></a> <br/>
+                            </td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<!-- Table used to center email Ends-->
+</body>
+</html>
